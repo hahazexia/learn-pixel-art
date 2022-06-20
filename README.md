@@ -23,3 +23,7 @@ I will create at least one pixel art piece every week.
 
   * 6.20 - 6.26
 
+    Aharen Reina animation（阿波連 れいな）
+
+    ![Aharen_Reina_animation](./exercise/Aharen_Reina/Aharen_Reina_color_anime.gif)
+
