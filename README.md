@@ -27,3 +27,6 @@ I will create at least one pixel art piece every week.
 
     ![Aharen_Reina_animation](./exercise/Aharen_Reina/Aharen_Reina_color_anime.gif)
 
+    Lieutenant & Richard
+
+    ![Lieutenant&Richard](./exercise//Hotline_Miami2_Wrong_Number/Lieutenant%26Richard.bmp)
