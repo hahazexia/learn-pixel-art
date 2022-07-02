@@ -30,3 +30,9 @@ I will create at least one pixel art piece every week.
     Lieutenant & Richard
 
     ![Lieutenant&Richard](./exercise//Hotline_Miami2_Wrong_Number/Lieutenant%26Richard.bmp)
+
+  * 6.27 - 7.03
+
+    Lieutenant & Richard animation
+
+    ![Lieutenant&Richard_animation](./exercise//Hotline_Miami2_Wrong_Number/Lieutenant&Richard_anime.gif)
