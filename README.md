@@ -43,4 +43,4 @@ I will create at least one pixel art piece every week.
 
     ![GoodBye_Eri](./exercise/Goodbye_Eri/Goodbye_Eri2.png)
 
-    ![GoodBye_Eri](./exercise/Goodbye_Eri/Goodbye_Eri2.gif)
+    ![GoodBye_Eri](./exercise/Goodbye_Eri/Goodbye_Eri2_0.2.gif)
