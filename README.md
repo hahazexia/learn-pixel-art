@@ -36,3 +36,11 @@ I will create at least one pixel art piece every week.
     Lieutenant & Richard animation
 
     ![Lieutenant&Richard_animation](./exercise//Hotline_Miami2_Wrong_Number/Lieutenant&Richard_anime.gif)
+
+  * 7.04 - 7.10
+
+    さよなら絵梨
+
+    ![GoodBye_Eri](./exercise/Goodbye_Eri/Goodbye_Eri2.png)
+
+    ![GoodBye_Eri](./exercise/Goodbye_Eri/Goodbye_Eri2.gif)
